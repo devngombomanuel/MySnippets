@@ -1,0 +1,43 @@
+{
+    "Template .gitignore Node.js": {
+        "prefix": "devngombomanuel-nodejs-gitignore",
+        "body": [
+            "# --Content: Dependências do Node--",
+            "node_modules/",
+            ".pnp",
+            ".pnp.js",
+            "",
+            "# Pastas de saída/build",
+            "dist/",
+            "build/",
+            "out/",
+            ".next/",
+            ".nuxt/",
+            "",
+            "# --Content: Logs do gerenciador de pacotes--",
+            "npm-debug.log*",
+            "yarn-debug.log*",
+            "yarn-error.log*",
+            "pnpm-debug.log*",
+            "",
+            "# --Content: Variáveis de ambiente e segredos--",
+            ".env",
+            ".env.local",
+            ".env.development.local",
+            ".env.test.local",
+            ".env.production.local",
+            "",
+            "# --Content: Cache do sistema e do Node--",
+            ".npm",
+            ".eslintcache",
+            ".stylelintcache",
+            "",
+            "# --Content: Arquivos de IDE e Sistema Operacional--",
+            ".vscode/",
+            ".idea/",
+            ".DS_Store",
+            "Thumbs.db"
+        ],
+        "description": "Template com configurações gerais de .gitignore para projetos em Node.js"
+    }
+}
