@@ -1,5 +1,5 @@
 {
-    "Template CSS.": {
+    "Template de Estilização CSS.": {
         "prefix": "devngombomanuel-css",
         "body": [
             "/*--Content: Estilizacao do documento HTML--*/",
@@ -51,6 +51,6 @@
             "}",
             "$0"
         ],
-        "description": "Estilizações iniciais para aqrquivos CSS."
+        "description": "Estilizações iniciais e propriedades usuais para aqrquivos CSS."
     }
 }
