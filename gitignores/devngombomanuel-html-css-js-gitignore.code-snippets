@@ -1,6 +1,6 @@
 {
     "Template .gitignore HTML, CSS e JS": {
-        "prefix": "cp",
+        "prefix": "devngombomanuel-html-css-js-gitignore",
         "body": [
             "# --Content: Arquivos do Sistema Operacional--",
             ".DS_Store",

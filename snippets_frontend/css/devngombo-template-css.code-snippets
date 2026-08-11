@@ -1,6 +1,6 @@
 {
     "Template de Estilização CSS.": {
-        "prefix": "devngombomanuel-css",
+        "prefix": "devngombomanuel-style-css",
         "body": [
             "/*--Content: Estilizacao do documento HTML--*/",
             "html{",

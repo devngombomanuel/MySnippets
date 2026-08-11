@@ -1,5 +1,6 @@
 {
     "Template .gitignore .NET": {
+        "prefix": "devngombomanuel-dotnet-gitignore",
         "body": [
             "# --Content: Executáveis e arquivos de build/saída--",
             "[Bb]in/",
