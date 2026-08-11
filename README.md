@@ -65,7 +65,7 @@ Você pode transformar qualquer trecho de código deste repositório em um atalh
 
 ### 2. Colar e Configurar o Snippet
 
-Dentro do arquivo JSON aberto, insira a configuração do seu snippet. 
+Dentro do arquivo JSON aberto, insira a configuração do seu snippet.
 Exemplo de Estrutura base:
 
 ```json
