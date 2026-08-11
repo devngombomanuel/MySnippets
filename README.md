@@ -29,10 +29,8 @@ Este é um repositório está aberto para sugestões e contribuições.
 
 ```bash
 ├── 📁 gitignores/
-│   ├── css_gitignore.txt
 │   ├── dotnet_gitignore.txt
-│   ├── htmlcssjs_gitignore.txt
-│   ├── javascript_gitignore.txt
+│   ├── html_css_js_gitignore.txt
 │   └── nodejs_gitignore.txt
 │
 ├── 📁 snippets_backend/
