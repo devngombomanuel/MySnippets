@@ -112,7 +112,3 @@ Dentro do arquivo JSON aberto, insira a configuração do seu snippet. Estrutura
 1. Navegue até a pasta da tecnologia desejada ou use o **Índice** acima.
 2. Copie o trecho de código diretamente para seu projeto ou cadastre no VS Code.
 3. Para arquivos `.gitignore`, copie o conteúdo do template desejado para o arquivo `.gitignore` na raiz do seu repositório.
-
-```
-
-```
