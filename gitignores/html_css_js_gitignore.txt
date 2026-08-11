@@ -1,0 +1,21 @@
+# --Content: Arquivos do Sistema Operacional--
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --Content: Configurações locais dos editores (VS Code, WebStorm, etc.)--
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea/
+
+# --Content: ariáveis de ambiente (No caso de uso de APIs)--
+.env
+
+# Logs do sistema/servidor local
+*.log
+
+# --Content: No caso de uso de pré-processadores (Sass/SCSS)--
+*.map
+.sass-cache/
