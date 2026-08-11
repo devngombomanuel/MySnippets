@@ -38,6 +38,6 @@
             "appsettings.Local.json",
             ".env"
         ],
-        "description": "Template com configurações gerais de .gitignore para projetos em ambiente .NET."
+        "description": "Template com configurações gerais .gitignore para projetos em ambiente .NET."
     }
 }
